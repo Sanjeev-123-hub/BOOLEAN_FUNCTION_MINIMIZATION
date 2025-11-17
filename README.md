@@ -43,10 +43,11 @@ assign f2=((~y&z)|(w&y)|(x&y));
 endmodule
 
 ```
-Register Number: 25016967 ; Developed by: Sangeeth J
 
 **Output:**
+**RTL realization**
 ![alt text](<Screenshot 2025-11-17 135348.png>)
+**RTL**
 ![alt text](<Screenshot 2025-11-17 135920.png>) 
 
 **Result:**
